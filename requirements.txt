@@ -1,0 +1,2 @@
+pyTelegramBotAPI==3.8.2  
+COVID19Py==0.3.0

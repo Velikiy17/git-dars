@@ -1,0 +1,27 @@
+﻿Узнать версиб pip 
+pip --version
+
+
+Необходимо обновить pip
+1. pip3 install --upgrade pip
+
+2. pip install --upgrade pip
+
+3. python -m pip install --upgrade pip
+
+Библиотека для работы со статистикой об КАРОНАВИРУСЕ
+
+https://pypi.org/project/COVID19Py/
+
+Установка библиотеки COVID19Py
+pip install COVID19Py
+
+Библиотека для работы с АПИ телеграмм
+https://pypi.org/project/pyTelegramBotAPI/
+
+Установка библиотеки pyTelegramBotAPI
+
+pip install pyTelegramBotAPI
+
+Установка библиотеки  requests для работы с различными сайтами.
+pip install requests
